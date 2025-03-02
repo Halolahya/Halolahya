@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Halolahya Group</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #111;
+            color: white;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            background: #222;
+            font-size: 24px;
+        }
+        section {
+            padding: 40px;
+        }
+        .btn {
+            background: #00AEEF;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>Halolahya Group</header>
+    <section>
+        <h1>Welcome to Halolahya Group</h1>
+        <p>Professional insights in trading, music, and more.</p>
+        <a href="#contact" class="btn">Contact Us</a>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>Halolahya Group specializes in trading strategies, music production, and innovative projects.</p>
+    </section>
+    <section id="services">
+        <h2>Our Services</h2>
+        <p>- Trading Analysis & Insights</p>
+        <p>- Music Production & Remixes</p>
+        <p>- Business Consulting</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@halolahya.com</p>
+    </section>
+</body>
+</html>
